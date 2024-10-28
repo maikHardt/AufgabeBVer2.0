@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+#header {
+    background-color: lightgray;
+    height: 50px;
+}
+#inner_header {
+    display: flex;
+    justify-content: end;
+    line-height: 50px;
+}
+#div_device_overview {
+    margin-right: 1rem;
+}
+#div_device_add {
+    margin-right: 3rem;
+}

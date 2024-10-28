@@ -1,0 +1,5 @@
+Hostname,Domain,"IP Address",DHCP,"MAC Address",Username,Password,Description
+server-01,my-company.org,192.1.1.1,No,00:1A:2B:3C:4D:5E,admin,$2y$10$HhLQ3ZXjtX0a/9xEZ4jqIubkaSiMNraFXFIjTU77riQ5KfZG6DE22,Keine Beschreibung
+server-02,my-company.de,,Yes,00:1A:2B:3C:4D:5F,admin2,$2y$10$c0sxz.uQH6p0Nt6uyXb4NO9kCW5gOUAeeQkuIOq8wP64hGp7P0apS,Hallo
+server-03,my-company.fr,,Yes,00:1A:2B:3C:4D:5A,admin3,$2y$10$WW/6Pq4VrrYa/9gNc3G.O.jwLAwNH/S3KrIcG/7zY1alFeumuTep.,Hallo
+server-04,my-company.us,192.1.1.3,No,00:1A:2B:3C:4D:5B,admin4,$2y$10$yKgThMCsp6U7bJ3jcUGOU.lEyc6Sl.AzNoWiP/l.mLl62sQgnyoSm,Hallo

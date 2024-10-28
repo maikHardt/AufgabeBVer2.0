@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #E0F7FA, #abecf5);
+}
+
+.container {
+    padding: 1.5rem 0 0 1.5rem;
+    width: 400px;
+}
+.formDiv {
+    width: 100%;
+    margin-top: 1ch;
+    display: flex;
+    justify-content: space-between;
+}
+.inner_container {  
+    width: 50%;
+}
+.buttonForm {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.error {
+    color: red;
+    text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    height: 100vh;
+    background: linear-gradient(to bottom, #E0F7FA, #abecf5);
+}
+.div_devices {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+#div_back {
+    margin-bottom: 1rem;
+}
